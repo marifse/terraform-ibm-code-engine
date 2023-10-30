@@ -1,5 +1,5 @@
 #####################################################
-# Code Engine Secret Resource
+# Code Engine App Resource
 # Copyright 2023 IBM
 #####################################################
 

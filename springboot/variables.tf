@@ -1,7 +1,7 @@
 variable "ibmcloud_api_key" {
   description = "IBM Cloud API key"
   type        = string
-  default = "xeSiKRLh4HvdgxK3njhg2ZIyw77GjXnRpmCaHaY735R8"
+  default = ""
 }
 variable "email" {
   type    = string
@@ -30,7 +30,7 @@ variable "authRegitry" {
 
 variable "projectName" {
   type = string
-  default = "Springboot-CE373"
+  default = "Springboot-CE472"
 }
 variable "source_type" {
   type = string

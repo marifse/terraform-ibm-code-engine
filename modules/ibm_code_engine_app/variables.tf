@@ -1,5 +1,5 @@
 #####################################################
-# Code Engine Secret Parameters
+# Code Engine App Parameters
 # Copyright 2023 IBM
 #####################################################
 
